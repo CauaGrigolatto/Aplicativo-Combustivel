@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlexFuel Helper</string>
+    <string name="answer_ethanol">Abasteça com etanol</string>]
+    <string name="answer_gas">Abasteça com gasolina</string>
+    <string name="message_ethanol">Valor do litro do etanol:</string>
+    <string name="message_gas">Valor do litro da gasolina:</string>
+    <string name="button_text">Calcular a melhor opção</string>
+    <string name="invalid_input_message">Valor inválido</string>
+    <string name="input_fuel_message">"Informe o valor dos dois combustíveis."</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlexFuel Helper</string>
+    <string name="answer_ethanol">Abastezca con etanol</string>
+    <string name="answer_gas">Abastezca con gasolina</string>
+    <string name="message_ethanol">Precio del litro de etanol:</string>
+    <string name="message_gas">Precio del litro de gasolina:</string>
+    <string name="button_text">Calcular la mejor opción</string>
+    <string name="invalid_input_message">Valor inválido</string>
+    <string name="input_fuel_message">"Ingrese el precio de ambos combustibles."</string>
+</resources>
